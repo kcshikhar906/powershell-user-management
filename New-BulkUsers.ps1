@@ -1,5 +1,5 @@
 # PowerShell User Management Script
-# Author: [Your Name]
+# Author: Shikhar KC
 # Date: June 2025
 # Purpose: Bulk user creation and management for Active Directory environments
 
